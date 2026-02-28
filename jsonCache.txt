@@ -1,0 +1,35 @@
+{
+  "status": 1000,
+  "message": "success",
+  "data": [
+    {
+      "id": 0,
+      "fontName": "Alimasag",
+      "description": "This font was installed by zFont 3 ✅",
+      "countryPermit": null,
+      "country": null,
+      "languagePermit": null,
+      "language": null,
+      "modelPermit": null,
+      "model": null,
+      "osvPermit": null,
+      "osVersion": null,
+      "brand": null,
+      "fontDomain": null,
+      "recommend": 0,
+      "filePath": "http://cdn.shalltry.com/public/osFont/full_font/1603098273612/Cream.ttf",
+      "size": 47175752,
+      "md5": "YyHagONemN1NA/TlMY/qOg==",
+      "samplePath": "http://cdn.shalltry.com/public/osFont/full_font/1603098273612/Cream.ttf",
+      "fontVersion": "3.9.2.1",
+      "downloadCount": null,
+      "publish": null,
+      "priority": null,
+      "createTime": null,
+      "publishTime": 1769345337068,
+      "fileName": "Alimasag.ttf",
+      "isFree": 1,
+      "paymentConfig": []
+    }
+  ]
+}
